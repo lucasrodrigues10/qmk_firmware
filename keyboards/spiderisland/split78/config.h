@@ -35,3 +35,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define BACKLIGHT_BREATHING
 
 #define DEBOUNCE 50
+#define UNICODE_SELECTED_MODES UC_WINC
+
+#define COMBO_COUNT 1
